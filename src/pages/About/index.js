@@ -17,7 +17,15 @@ export default function Dashboard() {
             </ul>
             <ul className="desc">
                <p>
-               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                A ideia para o desenvolvimento do jogo teve como origem a disciplina de Desenvolvimento Web, presente no 5º semestre do curso de Ciências da Computação do Centro Universitário de Brasília (UniCEUB) no segundo semestre de 2019 com o intuito de implementar os conceitos ensinados em sala de aula.  A escolha de criar um xadrez online aonde duas pessoas pudessem jogar, uma contra a outra veio da admiração pela complexidade do famoso jogo.
+	            </p>
+                <p></p>
+                <p>
+                Durante o desenvolvimento do jogo, o grupo percebeu a dificuldade em implementar as regras do xadrez, bem como as diversas opções de movimentação para cada peça. Isso exigiu um estudo mais detalhado sobre as técnicas de programação e sobre as particularidades do xadrez.
+	            </p>
+                <p></p>
+                <p>
+                O projeto foi desenvolvido pelos integrantes: Matheus Sales – matrícula 21804995; Alexsander Montenegro – matrícula 21603773 e Diego Rozsanyi – matrícula 21352319.
                </p>
             </ul>
             <div className="div-btn">
