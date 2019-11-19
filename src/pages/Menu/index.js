@@ -52,7 +52,7 @@ export default class MenuContainer extends React.Component {
                     this.props.history.push('/about');
                 break;
             case "Source Code":
-                    window.location.href="https://github.com/SalesMatheus";
+                    window.location.href="https://github.com/SalesMatheus/chessReact";
                 break;
             default:
                 break;
